@@ -1,0 +1,21 @@
+Comandos utilizados para criar esse arquivo:
+
+1- pwd: comando para mostrar o diretório atual.
+
+2- ls: comando para listar arquivos e diretórios.
+
+3- cd: comando para mudar de diretório.
+
+4- mkdir: comando para um novo diretório.
+
+5- rmdir: comando para excluir diretório.
+
+6- touch: comando para criar um novo arquivo vazio.
+
+7- nano: comando para editar arquivos de texto.
+
+8- cat: comando para visualizar o conteudo do arquivo.
+
+9- cp e mv: comandos para copiar e mover arquivos.
+
+10- rm: comando para remover arquivo.
