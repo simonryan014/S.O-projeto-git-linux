@@ -6,7 +6,7 @@ Comandos utilizados para criar esse arquivo:
 
 3- cd: comando para mudar de diretório.
 
-4- mkdir: comando para um novo diretório.
+4- mkdir: comando para criar um novo diretório.
 
 5- rmdir: comando para excluir diretório.
 
